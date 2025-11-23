@@ -19,7 +19,7 @@ source ./env/bin/activate
 ### For windows
 
 ```bash
-source .\env\Source\activate
+source .\env\Scripts\activate
 ```
 
 ## Install packages
